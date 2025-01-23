@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustAdamAhmad
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently learning Python for Data Science
+- 🌱 I’m currently learning Python and R for Data Science
 - 💞️ I’m looking to collaborate on Data Analysis projects
 - 📫 How to reach me adamolawaleahmad@gmail.com
 - 😄 Pronouns: HE
